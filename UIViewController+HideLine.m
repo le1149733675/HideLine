@@ -47,7 +47,6 @@
     if (self.navigationController) {
         [self hideBottomLine];
     }
-    
 }
 
 - (void)hideBottomLine {
